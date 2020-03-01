@@ -8,7 +8,7 @@ Two files are written, the file upload-csv.go is to upload any CSV to s3 bucket 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Select s3 from drop down
   
-  &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;; b) Add bucket name, event type(in this case put) and then after filling all details, click on add
+  &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;b) Add bucket name, event type(in this case put) and then after filling all details,    &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;click on add
   
 2. Handler name should be the file name. In this case, lambda-function
 
