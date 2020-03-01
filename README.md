@@ -1,8 +1,7 @@
 # AWS-lambda
 
 # Summary:
-Two files are written, the file upload-csv.go is to upload any CSV to s3 bucket which will trigger AWS lambda. Second file lambda-function.go is
-to AWS lambda code that will copy file uploaded to other s3 bucket. This was just a simple code that I wanted to wite to learn about AWS lambda and Go.
+Two files are written, the file upload-csv.go is to upload any CSV to s3 bucket which will trigger AWS lambda. Second file lambda-function.go is what AWS lambda will do: it will copy file to other s3 bucket. This was just a simple code that I wanted to wite to learn about AWS lambda and Go.
 
 # Steps taken to run AWS lambda:
 1. Add a trigger 
